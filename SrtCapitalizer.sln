@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SrtCapitalizer", "SrtCapitalizer\SrtCapitalizer.csproj", "{2E03DC1E-FFB7-41CD-A918-F4D318532A12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E03DC1E-FFB7-41CD-A918-F4D318532A12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E03DC1E-FFB7-41CD-A918-F4D318532A12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E03DC1E-FFB7-41CD-A918-F4D318532A12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E03DC1E-FFB7-41CD-A918-F4D318532A12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {746AB9AD-D593-4565-A8FE-0162C2FE1FA7}
+	EndGlobalSection
+EndGlobal
